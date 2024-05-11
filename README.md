@@ -7,7 +7,7 @@ My name is **Dan Dalpiaz**. I am a _Web Application Developer_ at the University
 - [Drive Music Player](https://dandalpiaz.github.io/drive-music-player/) - browser-based music player for Google Drive (WIP)
 - [ORCID @ Illinois](https://orcid.library.illinois.edu/) - integration to connect user ORCID iDs to campus directory
 - [The Non-Fictions](https://thenonfictions.com/) - landing page for Illinois-based band
-- [LAS Websites](https://atlas.illinois.edu/services/las-department-websites) - contributed to framework for departmental sites at Illinois
+- [LAS Websites](https://las.illinois.edu/faculty/communications/web) - contributed to framework for departmental sites at Illinois
 
 <!--
 **dandalpiaz/dandalpiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
