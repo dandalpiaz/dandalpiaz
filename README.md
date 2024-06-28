@@ -3,6 +3,7 @@
 
 My name is **Dan Dalpiaz**. I am a _Web Application Developer_ at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/) (UIUC) in the [University Library](https://www.library.illinois.edu/). I receieved a B.S. degree in Chemistry and Molecular and Cellular Biology at UIUC. Here are some selected web projects I’ve worked on over the years:
 
+- [linking.page](https://linking.page/) - create private, personalized pages of links
 - [markdown-pages.js](https://dandalpiaz.github.io/markdown-pages.js/) - simple Markdown-based static sites, without the generator
 - [Library Wiki](https://wiki.library.illinois.edu/) - multi-site MediaWiki farm used by the Library at Illinois
 - [Drive Music Player](https://dandalpiaz.github.io/drive-music-player/) - browser-based music player for Google Drive (WIP)
