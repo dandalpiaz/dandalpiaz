@@ -4,7 +4,7 @@ Hi, my name is **Dan Dalpiaz**. I am a _Web Application Developer_ at the [Unive
 - **[bookmarks-startpage](https://chromewebstore.google.com/detail/bookmarks-startpage/nkbcfcjndkpjejdfekeemdelppjdmlga)** – browser extension that displays bookmarks on simple, customizable pages
   - A web app version, [demo.linking.page](https://demo.linking.page/), and [flask-linux-guide](https://github.com/dandalpiaz/flask-linux-guide) used
 - **[markdown-pages.js](https://dandalpiaz.github.io/markdown-pages.js/)** – simple Markdown-based static sites, without the generator
-- **[Drive Music Player](https://dandalpiaz.github.io/drive-music-player/)** – browser-based music player for Google Drive (WIP)
+- **[drive-music-player](https://dandalpiaz.github.io/drive-music-player/)** – browser-based music player for Google Drive (WIP)
 
 <!--
 **dandalpiaz/dandalpiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
