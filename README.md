@@ -1,7 +1,7 @@
 
 ## Hi!
 
-My name is **Dan Dalpiaz**. I am a _Web Application Developer_ at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/) (UIUC) in the [University Library](https://www.library.illinois.edu/). I receieved a B.S. degree in Chemistry and Molecular & Cellular Biology at UIUC and am a [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.credly.com/badges/f9d01b2d-f567-4348-9491-2bbb3235b107/public_url).
+I'm a Web Developer at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/) (UIUC) in the [University Library](https://www.library.illinois.edu/). I receieved a B.S. degree in Chemistry and Molecular & Cellular Biology at UIUC and am a [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.credly.com/badges/f9d01b2d-f567-4348-9491-2bbb3235b107/public_url).
 
 ## Web
 
